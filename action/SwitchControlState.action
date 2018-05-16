@@ -1,0 +1,6 @@
+control_state_msgs/ControlState desired_state
+float32 allowed_switch_duration
+---
+control_state_msgs/ControlState end_state
+---
+control_state_msgs/ControlState current_state

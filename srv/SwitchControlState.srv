@@ -1,0 +1,3 @@
+control_state_msgs/ControlState state
+---
+control_state_msgs/ControlState current_state
